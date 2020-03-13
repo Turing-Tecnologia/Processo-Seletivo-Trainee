@@ -2,7 +2,7 @@
 
 [![Nosso Instagram](https://img.icons8.com/cute-clipart/64/000000/instagram-new.png)](https://www.instagram.com/turingtecnologia/)
 
-Bem vindos ao processo seletivo da Turing Tecnologia, primeira empresa Jr de T.I da UFERSA, gostamos de desafios e acreditamos que  o melhor currículos para um programador é os seus projetos realizados, pensando dessa forma, a inscrição do nosso processo seletivo se dará  aqui neste repositório.
+Bem vindos ao processo seletivo da Turing Tecnologia, primeira empresa Jr de T.I da UFERSA, gostamos de desafios e acreditamos que  o melhor currículo para um programador é os seus projetos realizados, pensando dessa forma, a inscrição do nosso processo seletivo se dará  aqui neste repositório.
 
 Para se torna candidato a vaga de Trainee, siga com atenção os passos abaixo:.
 

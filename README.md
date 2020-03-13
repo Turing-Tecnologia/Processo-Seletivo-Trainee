@@ -4,7 +4,7 @@
 
 Bem vindos ao processo seletivo da Turing Tecnologia, primeira empresa Jr de T.I da UFERSA, gostamos de desafios e acreditamos que  o melhor currículo para um programador é os seus projetos realizados, pensando dessa forma, a inscrição do nosso processo seletivo se dará  aqui neste repositório.
 
-Para se torna candidato a vaga de Trainee, siga com atenção os passos abaixo:.
+Para se tornar candidato a vaga de Trainee, siga com atenção os passos abaixo:.
 
   - Faça um Fork neste repositório 
   - Adicione uma pasta com seu nome

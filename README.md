@@ -12,8 +12,8 @@ Para se torna candidato a vaga de Trainee, siga com atenção os passos abaixo:.
  - Faça um Pull Request para o mesmo repositório.
 # Importante!
   - O processo seletivo se dará através todo através do Github;
-  - Dia 19/03(quinta feira da semana que vem), nos encontramos na Sala de Reuniões do Bloco administrativos ás 14 horas;
-- Dia 20/03(sexta feira da semana que vem), será emitido o resultado do processo se seleção nesse mesmo repositório.
+  - Dia 25/03(quarta-feira), nos encontramos na Sala de Reuniões do Bloco administrativos ás 14 horas;
+- Dia 26/03(quinta-feira), será emitido o resultado do processo se seleção nesse mesmo repositório.
 
 # Observações
 Se ainda não souber utilizar o Git e o Github, aproveitem a oportunidade para aprenderem, são ferramentas essenciais para o mercado de trabalho, e você terá que utiliza-las de um jeito ou de outro no futuro.

@@ -13,9 +13,8 @@ Para se tornar candidato a vaga de Trainee, siga com atenção os passos abaixo:
  
 # Importante!
 - O processo seletivo será feito usando o  Github;
-- Dia 25/03(quarta-feira), nos encontramos na Sala de Reuniões do Bloco administrativos ás 14 horas;
+- Dia 25/03(quarta-feira), teremos um encontro Online, devido o risco eminente do Covid-19;
 - Dia 26/03(quinta-feira), será emitido o resultado do processo de seleção nesse mesmo repositório;
-- É necessário que cada um leve seu equipamento.
 
 # Observações
 Se ainda não souber utilizar o Git e o Github, aproveite a oportunidade para aprender. São ferramentas essenciais para o mercado de trabalho e você terá que utiliza-las de um jeito ou de outro no futuro.

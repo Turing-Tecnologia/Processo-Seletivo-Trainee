@@ -18,5 +18,7 @@ Para se tornar candidato a vaga de Trainee, siga com atenção os passos abaixo:
 
 # Observações
 Se ainda não souber utilizar o Git e o Github, aproveite a oportunidade para aprender. São ferramentas essenciais para o mercado de trabalho e você terá que utiliza-las de um jeito ou de outro no futuro.
+### Grupo no Whatsapp
+https://chat.whatsapp.com/GvzIkhobrZSGmR2ZNk62xy
 
 # QUE A FORÇA ESTEJA COM VOCÊ <3
